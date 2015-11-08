@@ -83,29 +83,20 @@ Traditionally, this problem has already been confronted and resolved in many way
 
 
 
-   Agency:
-
-  Self Association based on interactions that would iteratively achieve a social objective.
-
-  Imagine if Anarchism had over 5000+ years to mature.  Beyond Anarchism it would be a method of using iterative interactions to achieve a 
-desired state of being. It was medicine it was not simply a political law that was handed from up high on tablets.
-
- It is what would happend of anarxhost lived thier ideals foe 5000+ years
-There is an objectively competitive narrative. It is data collected not habits.   Not a magic Indian but a thinking one
-Blood is an colonial way. It was about the reality of the way itself.  About the medicine.  Lol that is my opinion.
-
 
 # What?
 
+
+  Collection of ETHERUM smart contracts that create decentralized company inspired by North American Aboriginal political science.
+This project was originally developed in house policy at EMRIS Creative Core www.emris.cc
 
 # How?
 
    White Pine Network in a Box:
 
-     The protocols of this methodology will be applied to a series of smart contracts, so that this process can work autonomously.
+     The protocols of this methodology will be applied to a series of smart contracts, so that this process can operate on the 
+     ETHERIUM block chain.
 
 
-  Collection of ETHERUM smart contracts that create decentralized company inspired by North American Aboriginal political science.
-This project was originally developed in house policy at EMRIS Creative Core www.emris.cc
 
 
