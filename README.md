@@ -15,11 +15,11 @@ significant associate personal satisfaction.  Many times clique like behaviour w
 Traditionally, this problem has already been confronted and resolved in many ways by First Nations People. 
 
 
-    Native American Indegenous thinking has been consider more along ethno cultural lines then a principles of operation.
+    Native American Indigenous thinking has been consider more along ethno cultural lines then a principles of operation.
     It has been focused along political autonomy, contemporary experience, colonialism and ethicity. This is a mistake
     because there are so much data for organizational methodologies. Methodologies that that or only now emerging.
 
-    Being "Indegenous in a Bottle" ignores the experience and principles that can/have to great knowledge.
+    Being "Indigenous in a Bottle" ignores the experience and principles that can/have to great knowledge.
 
     "Mice Hitchhikers Guide to the Galaxy" - let us consider the North American Indegenous Community as an Open Source Project.
 
